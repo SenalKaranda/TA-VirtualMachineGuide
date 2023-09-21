@@ -48,3 +48,4 @@ https://www.virtualbox.org/wiki/Downloads
 ## Step 5: Run VM and Login
 ### On the main screen in VirtualBox, select your new VM and press 'Start'.
 #### Log in once it's booted, and you're ready to go!
+<img src="./Images/Step5.png"/>
