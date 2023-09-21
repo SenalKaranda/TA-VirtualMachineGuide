@@ -5,7 +5,7 @@
 ### Navigate to the Ubuntu download page, and download the latest version.
 https://ubuntu.com/download/desktop
 
-#### Download the latest LTS Ubuntu version.
+#### Download the latest LTS Ubuntu version. (Currently 22.04.3)
 <img src="./Images/Step1.png"/>
 
 #### It should appear in your downloads folder.
