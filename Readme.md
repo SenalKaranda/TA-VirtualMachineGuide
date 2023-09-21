@@ -43,7 +43,7 @@ https://www.virtualbox.org/wiki/Downloads
 <img src="./Images/Step3-4.png"/>
 
 ### Press 'Finish' and wait for your VM to be set up!
-<img src="./Images/Step3-4.png"/>
+<img src="./Images/Step3-5.png"/>
 
 ## Step 5: Run VM and Login
 ### On the main screen in VirtualBox, select your new VM and press 'Start'.
